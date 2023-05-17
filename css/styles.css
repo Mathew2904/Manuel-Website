@@ -6,7 +6,7 @@
 
 body {
 	min-height: 100vh;
-    background-image: url('/assets/bg2.1.jpg');
+    background-image: url('assets/bg2.1.jpg');
     background-size: cover;
     background-position: center;
 	background-attachment: fixed;
@@ -304,7 +304,7 @@ body {
 	height: 310px;
 	width: 620px;
 	border-radius: 4px;
-	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/assets/jewelries.png');
+	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('assets/jewelries.png');
 	background-size: cover;
 	position: relative;
 	color: #fff;
@@ -394,22 +394,22 @@ body {
 	height: 400px;
 	width: 525px;
 	border-radius: 4px;
-	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/assets/plating.jpg');
+	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('assets/plating.jpg');
 	background-size: cover;
 	position: relative;
 	color: #fff;
 }
 
 .services__card:nth-child(2) {
-	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/assets/repair.jpg');
+	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('assets/repair.jpg');
 }
 
 .services__card:nth-child(3) {
-	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/assets/restoration1.jpg');
+	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('assets/restoration1.jpg');
 }
 
 .services__card:nth-child(4) {
-	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/assets/cleaning.jpg');
+	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('assets/cleaning.jpg');
 }
 
 .services__card h2 {
@@ -656,7 +656,7 @@ body {
 	height: 400px;
 	width: 1155px;
 	border-radius: 4px;
-	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/assets/appraisal.jpg');
+	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('assets/appraisal.jpg');
 	background-size: cover;
 	position: relative;
 	color: #fff;
@@ -781,7 +781,7 @@ body {
 	height: 400px;
 	width: 1155px;
 	border-radius: 4px;
-	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/assets/jdrepair.jpg');
+	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('assets/jdrepair.jpg');
 	background-size: cover;
 	position: relative;
 	color: #fff;
@@ -863,7 +863,7 @@ body {
 	height: 400px;
 	width: 1155px;
 	border-radius: 4px;
-	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/assets/resto.jpg');
+	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('assets/resto.jpg');
 	background-size: cover;
 	position: relative;
 	color: #fff;
@@ -968,7 +968,7 @@ body {
 	height: 400px;
 	width: 1155px;
 	border-radius: 4px;
-	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/assets/appraisal.jpg');
+	background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('assets/appraisal.jpg');
 	background-size: cover;
 	position: relative;
 	color: #fff;
